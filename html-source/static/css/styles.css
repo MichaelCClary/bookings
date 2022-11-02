@@ -1,0 +1,21 @@
+.my-footer {
+    background-color: #000;
+    margin-top: 1.5em;
+    height: 5em;
+    padding: 1em;
+    color: #ffffff;
+    font-size: 80%;
+}
+
+.room-image {
+    max-width: 50%;
+}
+
+.swal2-html-container {
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+}
+
+.swal2-actions {
+    z-index: 0 !important;
+}
